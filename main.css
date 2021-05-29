@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+#main {
+    background-color: #3644c9;
+    background: url("https://raw.githubusercontent.com/iamshaunjp/responsive-css-grid-build/lesson-10/assets/square_bg.png");
+    padding: 20px 12px;
+    text-align: center;
+}
+#title {
+    text-align: center;
+    color:#fffb00;
+}
+#des {
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+}
+#img-div {
+    text-align: center;
+}
+#img-div #image {
+    margin:15px auto;
+    border-radius: 5px;
+}
+#img-div #img-caption {
+    color: white;
+}
+#tribute-info {
+    margin: 25px 0px;
+    text-align: center;
+    color:#fffb00;
+}
+#tribute-link {
+    text-decoration: none;
+    color: chocolate;
+}
+#plot {
+    color: white;
+    text-align: justify;
+    margin: 20px auto;
+    width: 80%;
+}
+.source-heading {
+    color: #fffb00;
+}
