@@ -5,7 +5,7 @@
 }
 #main {
     background-color: #3644c9;
-    background: url("https://raw.githubusercontent.com/iamshaunjp/responsive-css-grid-build/lesson-10/assets/square_bg.png");
+    background: url("https://raw.githubusercontent.com/vamshi-vemula/Tribute-page-example/main/Assets/bg.png");
     padding: 20px 12px;
     text-align: center;
 }
@@ -45,4 +45,21 @@
 }
 .source-heading {
     color: #fffb00;
+}
+.source-container {
+    margin: 20px auto;
+    display: inline-block;
+}
+.source-container li {
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 20px;
+}
+.source-container li img {
+    width: 60px;
+    border-radius: 50%;
+}
+.source-container li a:hover img {
+    width: 65px;
+    border-radius: 50%;
 }
